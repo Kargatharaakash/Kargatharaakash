@@ -1,5 +1,7 @@
+[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://github.com/Kargatharaakash)
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">An enthusiastic Software Engineer based in India.</h3>
+<img align="right" alt="coding" width="400" src"https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1500_2232/0/1636176827432?e=1709769600&v=beta&t=fybpttvEcZHqZWMPjtP77WNFeT37tFI2-vrKkmsNRFQ">
 
 - 🔭 I’m currently working on **Enhancing my skills in Flutter, Kotlin, Swift, and exploring new avenues in mobile application development.**
 
