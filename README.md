@@ -1,7 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://github.com/Kargatharaakash)
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">An enthusiastic Software Engineer based in India.</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 - 🔭 I’m currently working on **Enhancing my skills in Flutter, Kotlin, Swift, and exploring new avenues in mobile application development.**
 
 - 🌱 I’m currently learning **Swift, Kotlin, Flutter with Dart, and ReactJS.**
