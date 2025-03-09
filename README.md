@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://github.com/Kargatharaakash)
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">An enthusiastic Software Engineer based in India.</h3>
+<h3 align="center">An Software Engineer based in India.</h3>
 
 - 🔭 I’m currently working on **Enhancing my skills in Flutter, Kotlin, Swift, and exploring new avenues in mobile application development.**
 
